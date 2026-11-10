@@ -1,0 +1,6 @@
+{
+  "name": "BiblioTech - Biblioteca Escolar",
+  "description": "Sistema integrado de gestão de biblioteca escolar e portal do aluno, com controle de empréstimos em uso, monitoramento de atrasos, acervo e carteirinhas digitais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
